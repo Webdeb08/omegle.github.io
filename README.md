@@ -1,0 +1,2 @@
+# omegle.github.io
+<iframe width="600" height="480" src="https://dood.yt/e/cb5wdzko61q1ni2sbez4pqnu3k5jr99o" scrolling="no" frameborder="0" allowfullscreen="true"></iframe><iframe width="600" height="480" src="https://dood.yt/e/evssjj7tybv2mm5rq4hjper2v6p2c9wi" scrolling="no" frameborder="0" allowfullscreen="true"></iframe><iframe width="600" height="480" src="https://dood.yt/e/23i6kxjjgaxru14v69ee8vsy3a5ntbvz" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
