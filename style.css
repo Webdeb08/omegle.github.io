@@ -1,0 +1,77 @@
+
+.menu a
+{
+  border-style: solid; 
+  border-color: #333333;
+  background-color: #333333;
+  float: left;
+  padding: 12px;
+  width: 30%;
+  text-align: center;
+  font-family: monospace;
+  color: lightskyblue;
+  transition-duration: 0.4s;
+  text-decoration: none;
+}
+hr
+{
+  height: 5px;
+  color: lightskyblue;
+  background-color: lightskyblue;
+  border: none;
+}
+.menu a:hover
+{
+  background-color: lightskyblue;
+  color: black;
+  border-radius: 10px;
+}
+.menu
+{
+  background-color: #333333;
+  overflow: hidden;
+  border-radius: 10px;
+}
+body
+{
+  font-family: monospace;
+  color: black;
+}
+h1, h3
+{
+  text-align: center;
+}
+.topArea
+{
+  background-image: url("https://thumbs.dreamstime.com/b/script-programming-code-background-script-fictitious-programming-code-background-java-language-abstract-pattern-computer-program-107163861.jpg");
+  font-size: 20px;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: monospace;
+  padding: 0 15vw 0 15vw;
+}
+.button
+{
+  background-color: inherit;
+  border-radius: 10px;
+  border: solid white;
+  font-size: 20px;
+  display: block;
+  font-family: monospace;
+  text-decoration: none;
+  padding: 10px;
+  width: 25%;
+  transition-duration: 0.4s;
+  color: white;
+}
+.button:hover
+{
+  transform: scale(1.2, 1.2);
+  background-color: white;
+  color: black;
+}
+.bod
+{
+  font-size: 20px;
+}
